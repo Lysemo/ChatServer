@@ -1,0 +1,3 @@
+/home/lysemo/Documents/Projects/testmuduo/build/CMakeFiles/rebuild_cache.dir
+/home/lysemo/Documents/Projects/testmuduo/build/CMakeFiles/server.dir
+/home/lysemo/Documents/Projects/testmuduo/build/CMakeFiles/edit_cache.dir
